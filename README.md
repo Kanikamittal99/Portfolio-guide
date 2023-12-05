@@ -1,8 +1,8 @@
 # 🗺 Kanika's Portfolio
 
 ## 📚 Table of Contents
-- [Excel]
-- [SQL]
+- [Excel](#Excel)
+- [SQL](#SQL)
 - [Python]
 - [Tableau]
 
