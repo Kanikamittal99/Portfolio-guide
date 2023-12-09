@@ -18,3 +18,5 @@
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
+| 🍜 [Danny's Diner](https://github.com/Kanikamittal99/8-week-sql-challenge/blob/main/Dannys_diner/README.md) | Data cleaning, Data analysis, Data transformation | Provided information about customer visiting habits, expenditure, and preferred menu items to establish a deeper connection, enabling a more personalized dining experience for loyal customers. These insights can then be leveraged to determine the feasibility of expanding the current customer loyalty program. | 
+| 🐟 [Clique Bait](https://github.com/Kanikamittal99/8-week-sql-challenge/blob/main/Clique%20Bait/README.md) | Data analysis, Data transformation, Reporting | Performed Digital, Product Funnel, and campaign analysis on this online seafood store dataset to calculate funnel fallout rates and provided user friendly reports for daily analysis | 
