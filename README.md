@@ -20,7 +20,7 @@
 |---|---|---|
 | 🍜 [Danny's Diner](https://github.com/Kanikamittal99/8-week-sql-challenge/blob/main/Dannys_diner/README.md) | Data cleaning, Data analysis | Provided information about customer visiting habits, expenditure, and preferred menu items to establish a deeper connection, enabling a more personalized dining experience for loyal customers. These insights can then be leveraged to determine the feasibility of expanding the current customer loyalty program. | 
 | 🐟 [Clique Bait](https://github.com/Kanikamittal99/8-week-sql-challenge/blob/main/Clique%20Bait/README.md) | Data Analysis, Reporting, Digital data Analytics | Performed Digital, Product Funnel, and campaign analysis on this online seafood store dataset to calculate funnel fallout rates and provided user-friendly reports for daily analysis | 
-| 🖥️ [Sales Insights](https://github.com/Kanikamittal99/SalesInsights_SQL_Tableau/blob/master/Sales%20Insights/README.md) | Data Cleaning and Modeling, Data transformation, EDA | Addressed declining sales by furnishing insights on revenue breakdown by cities, years, and months, top 5 customers by revenue and sales quantity, top 5 products by revenue, and net profit and profit margin by market. | 
+| ⚙️ [Sales Insights](https://github.com/Kanikamittal99/SalesInsights_SQL_Tableau/blob/master/Sales%20Insights/README.md) | Data Cleaning and Modeling, Data transformation, EDA | Addressed declining sales by furnishing insights on revenue breakdown by cities, years, and months, top 5 customers by revenue and sales quantity, top 5 products by revenue, and net profit and profit margin by market. | 
 
 # Python
 
