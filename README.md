@@ -3,8 +3,8 @@
 ## 📚 Table of Contents
 - [Excel](#Excel)
 - [SQL](#SQL)
-- [Python]
-- [Tableau]
+- [Python](#Python)
+- [Tableau](#Tableau)
 
 # Excel
 
@@ -12,7 +12,7 @@
 |---|---|---|
 | 🍫 [Chocolate Sales Analysis](https://github.com/Kanikamittal99/Excel-DataAnalysis/tree/master/ChocolateSalesAnalysis) | Data analysis, Reporting | I answer business questions related to sales data, such as best and worst performing products per country, profits accumulated by each salesPerson, and creating Dynamic country-level Sales Report for business users to take informed decisions. | 
 
-***
+
 
 # SQL
 
@@ -23,8 +23,11 @@
 | 🖥️ [Sales Insights](https://github.com/Kanikamittal99/SalesInsights_SQL_Tableau/blob/master/Sales%20Insights/README.md) | Data Cleaning and Modeling, Data transformation, EDA | Addressed declining sales by furnishing insights on revenue breakdown by cities, years, and months, top 5 customers by revenue and sales quantity, top 5 products by revenue, and net profit and profit margin by market. | 
 
 # Python
+
+| Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 🖥️ [Electronics store Purchases](https://github.com/Kanikamittal99/Electronics_Store_Purchases/blob/main/README.md) | Data cleaning, Data exploration & Visualization || 
+| 🖥️ [Electronics store Purchases](https://github.com/Kanikamittal99/Electronics_Store_Purchases/blob/main/README.md) | Data cleaning, Data exploration & Visualization |Analyze and answer business questions about 12 months' worth of sales data| 
+| 🍿🎬 [Netflix titles](https://github.com/Kanikamittal99/Netflix_Data_cleaning/blob/master/README.md) | Data cleaning, Data transformation | Leveraged Python’s data manipulation libraries such as Pandas and NumPy to extract, clean, and preprocess raw Netflix data for accurate analysis.| 
 
 # Tableau
 
